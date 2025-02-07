@@ -17,7 +17,7 @@ public:
     void inputStudent() {
         cout << "Enter Roll No: ";
         cin >> rollNo;   // Taking roll number as input
-        // cin.ignore();    // Ignore leftover newline character
+        cin.ignore();    // Ignore leftover newline character
 
         cout << "Enter Name: ";
         cin.getline(name, 50);  // Taking name as input with space
@@ -125,11 +125,3 @@ int main() {
     cout << "Exiting program...\n";  // Goodbye message
     return 0;
 }
-
-
-
-
-
-
-
-
