@@ -1,0 +1,3 @@
+1 sangam 40
+2 samir 50
+3 thapa 60
