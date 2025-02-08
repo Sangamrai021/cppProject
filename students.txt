@@ -1,2 +1,2 @@
-67  0
-33 hero 30
+2 sangam 30000
+4 samir 20

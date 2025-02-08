@@ -122,6 +122,6 @@ int main() {
 
     } while (choice != 4);  // Exit when user chooses 4
 
-    cout << "Exiting program...\n";  // Goodbye message
+    cout << "Exiting program...\n";  //  program is finished.
     return 0;
 }
