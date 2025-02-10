@@ -48,7 +48,6 @@ public:
     }
 
     // Load all student data from the file
-    //
     static int loadFromFile(Student students[]) { // data is same for all object of this class 
         ifstream file("students.txt");  // Open file in read mode
         int count = 0;  // Counter for the number of students loaded
